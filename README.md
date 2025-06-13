@@ -33,11 +33,13 @@ Play the game:
 -The computer makes a random choice.
 -The winner is displayed, and the score updates.
 
-🧰 Technologies Used
+
+
+## 🧰 Technologies Used
 HTML – Structure
 CSS – Styling and layout
 JavaScript – Game logic and interaction
 
-👤 Author
+## 👤 Author
 Metla Varalakshmi
 GitHub: @Varalakshmi_Metla
